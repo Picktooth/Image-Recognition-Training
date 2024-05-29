@@ -1,0 +1,16 @@
+Model: ./Models/Merged_Kfold_AdaGrad_F10_E100_B32_W4
+
+Total Epochs: 100
+
+Accuracy of the network on the 10000 test images: 72 %
+
+Accuracy for class: airplane is 69.0 %
+Accuracy for class: automobile is 78.0 %
+Accuracy for class: bird  is 70.0 %
+Accuracy for class: cat   is 57.0 %
+Accuracy for class: deer  is 75.0 %
+Accuracy for class: dog   is 56.0 %
+Accuracy for class: frog  is 84.0 %
+Accuracy for class: horse is 75.0 %
+Accuracy for class: ship  is 89.0 %
+Accuracy for class: truck is 67.0 %
